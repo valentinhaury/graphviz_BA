@@ -1,0 +1,1 @@
+Python project to create the graphs needed for my bachelor thesis
